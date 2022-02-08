@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient(#0341fc 0%,#6ea3c2 100%);
+}
+h1 {
+    font-size: 30px;
+    color: aliceblue;
+}
+.line{
+    width: 70px;
+    height: 6px;
+    background-color: black; 
+    margin: 5px auto;
+
+}
